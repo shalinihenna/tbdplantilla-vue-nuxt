@@ -1,16 +1,20 @@
-# Códigos de Ejemplo
-## Taller de Bases de Datos
+# ejemplo-nuxt
 
-En esta carpeta se encuentran los códigos de proyectos vistos en clases
+## Build Setup
 
-* Ejemplo 1 [Conexión con SQL2o en Spring](./ejemplo-spring-1)
+```bash
+# install dependencies
+$ npm install
 
-* Ejemplo 2 [Aplicación Single Page con NuxtJS](./ejemplo-nuxt)
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-* Ejemplo 3 [Consultas a BD Geolocalizada](./ejemplo-spring-gis)
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-* Ejemplo 4 [Visualización de datos geolocalizados en un mapa](./ejemplo-mapas)
+# generate static project
+$ npm run generate
+```
 
-* Ejemplo 5 [Conexión a MongoDB](./ejemplo-mongodb)
-
-* Ejemplo 6 [Conexión a MongoDB](./ejemplo-mongo-avanzado)
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
